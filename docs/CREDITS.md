@@ -5,3 +5,5 @@ Title lettering uses Final Fantasy Font by Juan Pablo Reyes Altamirano (1999), p
 Decorative meteor, flower and materia motifs were adapted with AI assistance from a Final Fantasy VII reference supplied by the profile owner. They are fan-inspired decorative elements, not original professional logos. This profile is not affiliated with or endorsed by Square Enix.
 
 Tool logos: Devicon (https://github.com/devicons/devicon), MIT license. Product names and logos belong to their respective owners. Claude logo identifies Claude Code.
+
+Sword motif adapted with the built-in image generation tool from the reference provided by the profile owner; cobalt flat-ink style and transparent background.
