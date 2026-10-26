@@ -1,6 +1,6 @@
+<a href="https://jona-24.github.io/Jona-24/"><img src="assets/title-name.svg" width="640" alt="Jonathan Tautiva — visit my portfolio" /></a>
 
-
-## AI, Engineering, Governance, Analytics & Applications
+## AI Engineering & Applications
 
 I build on experience across **data engineering, business intelligence, analytics, and data governance** to develop AI applications grounded in business context, structured knowledge, and evaluation.
 
